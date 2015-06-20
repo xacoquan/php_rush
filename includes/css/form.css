@@ -1,0 +1,18 @@
+#okbut {
+	position: absolute;
+	margin-left: 49.6%;
+	width: 100px;
+	height: 400px;
+}
+
+#form2 {
+	margin-top: 25%;
+	margin-left: 47%;
+}
+
+#form2 input {
+	font-size: 25px;
+	width: 200px;
+	height: 40px;
+	margin-top: 10px;
+}

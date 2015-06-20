@@ -1,0 +1,27 @@
+ul {
+	padding: 0;
+	margin-left: 37%;
+	list-style-type: none;
+}
+
+li {
+	margin-left: 2px;
+	float: left;
+}
+
+ul li a:hover {
+	background-color: rgba(23, 23, 23, 0.8);
+	color: white;
+}
+
+ul li a {
+	display: block;
+	float: left;   
+	width: 150px;
+	line-height: 50px;
+	background-color: rgba(46, 46, 46, 0.8);
+	color: #DCDCDC;
+	text-decoration: none;
+	text-align: center;
+}
+
